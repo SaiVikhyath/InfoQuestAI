@@ -1,0 +1,64 @@
+.configuration-box-width {
+  width: 30%;
+}
+
+.gradio-tab .tab-item {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+.gradio-container .tabs-header .tab-header {
+  font-size: 5rem;
+}
+
+.gradio-container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.gr-title {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.gr-header {
+  font-size: 1.5em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.gr-button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 6px;
+}
+
+.gr-textbox, .gr-file {
+  width: 100%;
+  padding: 0.8rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+.gr-output {
+  background-color: #fff;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding-top: 0.1em;
+}

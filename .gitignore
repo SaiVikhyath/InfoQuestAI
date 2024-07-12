@@ -1,0 +1,10 @@
+__pycache__
+Documents/QA/NewlyUploaded/*
+Documents/QA/AlreadyRead/*
+Documents/Insights/NewlyUploaded/*
+Documents/Insights/AlreadyRead/*
+Documents/Insights/Results/*
+Documents/RequirementsMatching/*
+Data/Invoices/*
+Data/Others/*
+Demo/*
